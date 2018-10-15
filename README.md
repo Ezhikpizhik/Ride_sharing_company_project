@@ -2,7 +2,10 @@
 
  Project findings:
  
-●  The average projected lifetime of a driver
-●  Drivers churn once & predictive indicators for driver churn
-●  Segmentation of drivers 
-●  Actionable recommendations for the business
+The average projected lifetime of a driver
+
+Drivers churn rate & predictive indicators for driver churn
+
+Segmentation of drivers 
+
+Actionable recommendations for the business
